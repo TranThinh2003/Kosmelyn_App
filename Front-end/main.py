@@ -4,11 +4,15 @@ from flet_core import RoundedRectangleBorder, BorderSide
 import cv2
 import time
 import os
+import sys
 from typing import Dict
 from question import qt
 from Extract_Img import Extract_Img
 from Firestore_db import queries
 # from flet.margin import Margin
+
+
+
 def main(page: Page):
     question_index = 0
     answers = []
