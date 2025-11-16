@@ -1,4 +1,4 @@
-<h1 align="center">Kosmelyn App – AI-Powered Skincare Analysis</h1>
+<h1 align="center">Kosmelyn App – Personalized Skincare Advisor</h1>
 
 <p align="center">
   <!-- Visitors badge -->
