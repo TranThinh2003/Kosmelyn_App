@@ -25,12 +25,15 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
-<!-- ---
+---
 
 ## 📸 Visual Demo
+### Capture & Analysis
+![Project Demo GIF](demo\SkincareAnalysisDemo2025-11-1612-53-05-ezgif.com-video-to-gif-converter.gif)
 
-![Project Demo GIF](https-link-den-file-gif-demo-cua-ban.gif) -->
-
+---
+### Show Results
+![Project Demo GIF](demo\2-ezgif.com-video-to-gif-converter.gif)
 ---
 
 ## 🌟 Project Overview
