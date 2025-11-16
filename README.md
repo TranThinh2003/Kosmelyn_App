@@ -29,11 +29,11 @@
 
 ## 📸 Visual Demo
 ### Capture & Analysis
-![Project Demo GIF](demo\SkincareAnalysisDemo2025-11-1612-53-05-ezgif.com-video-to-gif-converter.gif)
+![Project Demo GIF](demo/SkincareAnalysisDemo2025-11-1612-53-05-ezgif.com-video-to-gif-converter.gif)
 
 ---
 ### Show Results
-![Project Demo GIF](demo\2-ezgif.com-video-to-gif-converter.gif)
+![Project Demo GIF](demo/2-ezgif.com-video-to-gif-converter.gif)
 ---
 
 ## 🌟 Project Overview
